@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=734
+
+This is a drop-in for the original sql.vim file delivered with vim 6.2. It should do highlighting of all documented Oracle 9iR2  SQL commands/keywords and SQL+ commands. 
+PL/SQL blocks within a SQL file will be marked as one uniform block without further highlighting. 
+I tried to stick to the Oracle Documentation concerning keywords and commands as far as possible, so not everything you would expect to be a keyword is one (e.g. DUAL).
+
